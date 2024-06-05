@@ -1,2 +1,4 @@
-# project-ladingpage-logo
- Logo landing page project, a project to test responsiveness and flex box skills, in which I am training. The idea and rights to the project came from programmer Rodolfo Mori.
+# Projeto Landing Page LOGO 
+- Projeto de landing page LOGO é um projeto para testar a capacidade de responsividade entre vários dispositiovs e posicionamento de elementos e conteúdos com flex box, no qual estou treinando. 
+- A ideia e os direitos do projeto foram do programador Rodolfo Mori em uma live que ele fez no canal de no youtube.
+ 
